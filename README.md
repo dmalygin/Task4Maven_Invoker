@@ -6,5 +6,5 @@ Failed to execute goal com.soebes.maven.plugins:iterator-maven-plugin:0.3:invoke
 
 This problem described here: http://stackoverflow.com/questions/27771058/maven-resourcesresources-goal-invocation-with-help-of-invoker-goal-of-ite
 
-Structure of the project:
+Structure of the project as picture:
 https://cloud.githubusercontent.com/assets/7958589/5616203/3186e97a-9513-11e4-9893-977afb533e93.jpg
